@@ -15,5 +15,10 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>tech.ufun.ranger</groupId>
+            <artifactId>ranger-system</artifactId>
+        </dependency>
+
     </dependencies>
 </project>

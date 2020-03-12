@@ -13,4 +13,17 @@
 
     <description>系统管理模块</description>
 
+    <dependencies>
+        <dependency>
+            <groupId>tech.ufun.ranger</groupId>
+            <artifactId>ranger-framework</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+    </dependencies>
 </project>
